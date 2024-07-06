@@ -1,0 +1,93 @@
+[
+  {
+    "name": "Heart Risk Assessment",
+    "desc": "The project aims to predict the risk of heart disease using machine learning techniques.",
+    "image": "hra",
+    "category": "datascience",
+    "links": {
+      "view": "https://heartriskassessmentcodeclause-zzungegg9h4fufc4u4wfuq.streamlit.app/",
+      "code": "https://github.com/Kishore49/heartrisk_assessment_codeclause"
+    }
+  },
+  {
+    "name": "URL Shortener",
+    "desc": "A simple URL Shortener application written in Python, it allows users to shorten url using 2 methods.",
+    "image": "url",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Kishore49/URL-Shortener"
+    }
+  },
+  {
+    "name": "GameVorteX - FreeFire eSports",
+    "desc": "The project GameVorteXFreeFire eSports is a dynamic and engaging website template designed to cater to the FreeFire eSports gaming community",
+    "image": "ff",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Kishore49/Gaming_Template"
+    }
+  },
+
+  {
+    "name": "Portfolio Website",
+    "desc": "Personal Portfolio Website. Don't Need Much Info About It, Just Scroll Down. You're Here Only!",
+    "image": "pf",
+    "category": "basicweb",
+    "links": {
+      "view": "#",
+      "code": "#"
+    }
+  },
+  {
+    "name": "Alarm Clock",
+    "desc": "This project is a simple graphical user interface (GUI) based Alarm Clock application built using Python's tkinter library",
+    "image": "al",
+    "category": "python",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Kishore49/Alarm_Clock"
+    }
+  },
+  {
+    "name": "IPL Analysis",
+    "desc": "This project analyzes the data from the Indian Premier League (IPL) 2022 season. The dataset includes match details such as teams, venues, scores, winners, and notable player performances.",
+    "image": "ipl22",
+    "category": "dataanalysis",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Kishore49/IPL_22_Analysis"
+    }
+  },
+  {
+    "name": "Visage_verify",
+    "desc": "This is a Flask web application for face recognition-based attendance tracking. The application allows users to register their faces, take attendance using a webcam, and view attendance records.",
+    "image": "vv",
+    "category": "datascience",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Kishore49/Visage_verify"
+    }
+  },
+  {
+    "name": "Stock Predictor",
+    "desc": "Having real-time insights into your favorite stocks like AAPL, GOOGL, TSLA, and more at your fingertips.",
+    "image": "sp",
+    "category": "python",
+    "links": {
+      "view": "https://stockprediction-k2eu.onrender.com/",
+      "code": "https://github.com/Kishore49/StockPrediction"
+    }
+  },
+  {
+    "name": "Movie Genre Detection",
+    "desc": "This project aims to predict the genres of movies based on their synopses using machine learning techniques. The dataset used contains movie synopses and their corresponding genres.",
+    "image": "mgpp",
+    "category": "datascience",
+    "links": {
+      "view": "#",
+      "code": "https://github.com/Kishore49/moviegenre_prediction_codeclause"
+    }
+  }
+]

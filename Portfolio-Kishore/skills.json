@@ -1,0 +1,70 @@
+[
+    {
+        "name": "Excel",
+        "icon": "https://img.icons8.com/?size=100&id=13654&format=png&color=000000"
+    },
+    {
+        "name": "Git",
+        "icon": "https://img.icons8.com/?size=100&id=20906&format=png&color=000000"
+    },
+    {
+        "name": "Github",
+        "icon": "https://img.icons8.com/?size=100&id=AZOZNnY73haj&format=png&color=000000"
+    },
+    {
+        "name": "HTML5",
+        "icon": "https://img.icons8.com/?size=100&id=20909&format=png&color=000000"
+    },
+    {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/?size=100&id=21278&format=png&color=000000"
+    },
+    {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/?size=100&id=108784&format=png&color=000000"
+    },
+    {
+        "name": "Python",
+        "icon": "https://img.icons8.com/?size=100&id=Rc0Xn5AtE8kX&format=png&color=000000"
+    },
+    {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/?size=100&id=9nLaR5KFGjN0&format=png&color=000000"
+    },
+    {
+        "name": "PowerBI",
+        "icon": "https://img.icons8.com/?size=100&id=qYfwpsRXEcpc&format=png&color=000000"
+    },
+    {
+        "name": "Flask",
+        "icon": "https://img.icons8.com/?size=100&id=ewGOClUtmFX4&format=png&color=000000"
+    },
+    {
+        "name": "Tensorflow",
+        "icon": "https://img.icons8.com/?size=100&id=n3QRpDA7KZ7P&format=png&color=000000"
+    },
+    {
+        "name": "Numpy",
+        "icon": "https://img.icons8.com/?size=100&id=aR9CXyMagKIS&format=png&color=000000"
+    },
+    {
+        "name": "Pandas",
+        "icon": "https://img.icons8.com/?size=100&id=xSkewUSqtErH&format=png&color=000000"
+    },
+    {
+        "name": "Matplotlib",
+        "icon": "https://img.icons8.com/?size=100&id=fOuZeM45qH2X&format=png&color=000000"
+    },
+    {
+        "name": "OpenCV",
+        "icon": "https://img.icons8.com/?size=100&id=apebs8fnmi4m&format=png&color=000000"
+    },
+    {
+        "name": "Google Colab",
+        "icon": "https://img.icons8.com/?size=100&id=lOqoeP2Zy02f&format=png&color=000000"
+    },
+    {
+        "name": "Tkinter",
+        "icon": "https://img.icons8.com/?size=100&id=KcsCpd9rffIr&format=png&color=000000"
+    }
+]
